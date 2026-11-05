@@ -1,0 +1,34 @@
+{
+  "source_files": [
+    {
+      "name": "customers.csv",
+      "bytes": 148219
+    },
+    {
+      "name": "network_elements.csv",
+      "bytes": 53195
+    },
+    {
+      "name": "network_events.json",
+      "bytes": 619184
+    },
+    {
+      "name": "network_incidents.csv",
+      "bytes": 57314
+    },
+    {
+      "name": "subscriptions.csv",
+      "bytes": 204790
+    },
+    {
+      "name": "trouble_tickets.csv",
+      "bytes": 127829
+    },
+    {
+      "name": "usage_transactions.csv",
+      "bytes": 243553
+    }
+  ],
+  "data_quality_owner": "IDMC",
+  "snowflake_scope": "Typed conformance, JSON extraction, dimensional modelling, marts, incremental usage, security and operational reconciliation; no duplicate profiling or business DQ routing."
+}
